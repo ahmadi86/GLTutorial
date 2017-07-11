@@ -1,5 +1,5 @@
 # GLTutorial
-Implementing an OpenGL program in Visual Studio C++ based on a tutorial.
+Implementing an OpenGL program in Visual Studio C++ (2012) based on a tutorial.
 
 The tutorial itself is by Joey Clover and can be found in three parts here:
 1. https://www.youtube.com/watch?v=j-55D2rsCSE
